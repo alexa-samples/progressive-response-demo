@@ -1,3 +1,6 @@
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 # Progressive Response Demo
 
 Sometimes it may take some time before a response can be sent to a user.  Rather than wait in silence, it is better to provide an initial response and then follow it up with the full response.  The Progressive Response API allows for that.  This demo fetches data from a remote source after providing an initial resposne to the user.
